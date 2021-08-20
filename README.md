@@ -1,1 +1,1 @@
-import sale table into mysql database
+import sales table into mysql database
